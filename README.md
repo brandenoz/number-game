@@ -21,3 +21,5 @@ while guess != correct_number:
   else: guess = int(input("Wrong. You need to guess lower. what is your guess?: "))
 
 print(f"Congrats! The right answer was {correct_number}. It took you {guess_count} guesses.")
+
+![image](https://github.com/user-attachments/assets/9f4b1259-0e50-4838-87f9-ed7741bb8ad1)
