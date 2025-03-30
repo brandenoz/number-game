@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/user-attachments/assets/98ea5805-74c7-4332-b1f4-475f6ef4000f" alt="Python Logo" width=20%/>
+ <img src="https://github.com/user-attachments/assets/784c1a3e-f470-4234-ac8f-d98ff29eff9c" alt="Python Logo" width=20%/>
  </p>
 
  <h1>Number Guessing Game</h1>
@@ -33,11 +33,11 @@ print(f"Congrats! The right answer was {correct_number}. It took you {guess_coun
 
 - Initially, you will be prompted to guess a number. There is time built in for the program while picking a number to appear that it is taking a second to think. This humanizes the game element just a bit. 
 
-![Python_1st](https://github.com/user-attachments/assets/79bf0f90-84e4-4f1f-8e44-090dd3c51209)
+![Python_1st](https://github.com/user-attachments/assets/8742d90d-fbf1-4b2e-ba5b-3314fb6c64a9)
 
 - After a few guesses you should be able to get it correct using the hints. 
 
-![Correct_Guess](https://github.com/user-attachments/assets/dd9a804b-aa15-43a1-bb6c-90cbcf66848c)
+![Correct_Guess](https://github.com/user-attachments/assets/03ab12c3-5902-4aca-9fc6-35515029aaf5)
 
 See my code on Replit: 
 https://replit.com/@Brandennoz/Final-Project#main.py
