@@ -41,3 +41,5 @@ print(f"Congrats! The right answer was {correct_number}. It took you {guess_coun
 
 See my code on Replit: 
 https://replit.com/@Brandennoz/Final-Project#main.py
+
+- To see other projects click here: https://github.com/brandenoz. 
