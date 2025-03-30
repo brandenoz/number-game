@@ -2,7 +2,7 @@
  <img src="https://github.com/user-attachments/assets/98ea5805-74c7-4332-b1f4-475f6ef4000f" alt="Python Logo" width=20%/>
  </p>
 
- <h1>Random Number Guessing Game</h1>
+ <h1>Number Guessing Game</h1>
  The Python code will pick a number from 1-100. It will be random each time. It will tell you one of three things: you guessed correctly, you guessed too high, or you guessed too low.  
  
  <h2>Code</h2>
