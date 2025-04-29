@@ -39,7 +39,4 @@ print(f"Congrats! The right answer was {correct_number}. It took you {guess_coun
 
 ![Correct_Guess](https://github.com/user-attachments/assets/03ab12c3-5902-4aca-9fc6-35515029aaf5)
 
-See my code on Replit: 
-https://replit.com/@Brandennoz/Final-Project#main.py
-
 - To see other projects click here: https://github.com/brandenoz. 
